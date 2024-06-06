@@ -56,8 +56,8 @@ export const siteConfig = {
     },
   ],
   links: {
-    github: "https://github.com/nextui-org/nextui",
-    twitter: "https://twitter.com/getnextui",
+    github: "https://github.com/2WebSpark",
+    instagram: "https://www.instagram.com/webspark_/",
     whats: "https://api.whatsapp.com/send?phone=5514982254049",
     discord: "https://discord.gg/9b6yyZKmH4",
     sponsor: "https://patreon.com/jrgarciadev",
